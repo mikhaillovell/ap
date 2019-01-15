@@ -1,3 +1,19 @@
+# Unit 5
+
+* [Internet Basics]({{"/units/unit5/internet_basics" | relative_url }})
+* [IP Addresses]({{"/units/unit5/ip_addresses" | relative_url }})
+* [DNS and DHCP]({{"/units/unit5/dns_and_dhcp" | relative_url }})
+* [Routers]({{"/units/unit5/routers" | relative_url }})
+* [TCP and IP]({{"/units/unit5/tcp_and_ip" | relative_url }})
+* [HTTP]({{"/units/unit5/http" | relative_url }})
+* [Trust Models]({{"/units/unit5/trust_models" | relative_url }})
+* [Cybersecurity]({{"/units/unit5/cybersecurity" | relative_url }})
+* [HTML]({{"/units/unit5/html" | relative_url }})
+* [CSS]({{"/units/unit5/css" | relative_url }})
+
+<!--
+* [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})
+
 # Unit 0
 
 * [Computers and Computing]({{"/units/unit0/computers_and_computing" | relative_url }})
@@ -52,9 +68,6 @@
 * [File I/O]({{"/units/unit4/file_io" | relative_url }})
 * [Images]({{"/units/unit4/images" | relative_url }})
 
-<!--
-* [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})
-
 # Unit A
 
 * [Stacks]({{"/units/unitA/stacks" | relative_url }})
@@ -75,18 +88,7 @@
 * [Scalability]({{"/units/unitB/scalability" | relative_url }})
 * [Collaboration]({{"/units/unitB/collaboration" | relative_url }})
 
-# Unit 5
 
-* [Internet Basics]({{"/units/unit5/internet_basics" | relative_url }})
-* [IP Addresses]({{"/units/unit5/ip_addresses" | relative_url }})
-* [DNS and DHCP]({{"/units/unit5/dns_and_dhcp" | relative_url }})
-* [Routers]({{"/units/unit5/routers" | relative_url }})
-* [TCP and IP]({{"/units/unit5/tcp_and_ip" | relative_url }})
-* [HTTP]({{"/units/unit5/http" | relative_url }})
-* [Trust Models]({{"/units/unit5/trust_models" | relative_url }})
-* [Cybersecurity]({{"/units/unit5/cybersecurity" | relative_url }})
-* [HTML]({{"/units/unit5/html" | relative_url }})
-* [CSS]({{"/units/unit5/css" | relative_url }})
 
 # Unit 6
 
